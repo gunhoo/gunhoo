@@ -2,7 +2,8 @@
 - 👀 I’m interested in CS, AI, ML, DL, Algorithms, Mobile/Embedded Systems
 - 🌱 I’m currently studying code algorithms
 - 💞️ I’m looking to graudate schools in Computer Science.
-- 📫 My homepage: https://gunhoo.github.io
+- 📫 My e-mail address: gunhoo2016[at]gmail[dot]com
+-    My homepage: https://gunhoo.github.io
 
 <!---
 gunhoo/gunhoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
