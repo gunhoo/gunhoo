@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gunhoo
 - 👀 I’m interested in CS, AI, ML, DL, Algorithms, Mobile/Embedded Systems
 - 🌱 I’m currently studying code algorithms
-- 💞️ I’m looking to graudate schools in Computer Science.
 - 📫 My e-mail address: gunhoo2016 [at] gmail [dot] com
 
 <!---
