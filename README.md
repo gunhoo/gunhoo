@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gunhoo
 - 👀 I’m interested in CS, AI, ML, DL, Algorithms, Mobile/Embedded Systems
-- 🌱 I’m currently studying code algorithms
+- 🌱 I’m currently studying Algorithms & Java(Web)
 - 📫 My e-mail address: gunhoo2016 [at] gmail [dot] com
 
 <!---
