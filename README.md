@@ -1,8 +1,7 @@
 <div align=center>
   
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gunhoo's%20Github&fontSize=50) -->
-
-
+  
 ## Introduction :raised_hands:
   ```
 👋 Hi, I’m @gunhoo and I'm trying to become a nice developer😎
@@ -10,19 +9,16 @@
 🌱 I’m currently studying Algorithms & Java(Web) programming
 📫 My e-mail address: gunhoo2016 [at] gmail [dot] com
   ```
-<br/><br/>
 
-## Skill :four_leaf_clover:
-
-   
-  <br/>
+## Skill :four_leaf_clover:   
+ 
   <!--언어 및 툴 -->
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
-<br/><br/>
+
   
  <!--공부중 -->
  
