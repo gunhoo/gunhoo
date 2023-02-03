@@ -34,7 +34,7 @@
  <!--언어 및 툴 --> <br/>
  
 ## Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunhoo&langs_count=8)](https://github.com/gunhoo/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunhoo&langs_count=10)](https://github.com/gunhoo/github-readme-stats) 
 
   
 ## Problem Solving :muscle: 
