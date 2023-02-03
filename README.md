@@ -28,22 +28,15 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   
-  <!--백-->
-  <br/>
- 
- <!--언어 및 툴 --> <br/>
  
 ## Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunhoo&langs_count=10)](https://github.com/gunhoo/github-readme-stats) 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunhoo&layout=compact&langs_count=10)](https://github.com/gunhoo/github-readme-stats) 
   
-## Problem Solving :muscle: 
+## Algorithm Lv :muscle: 
 </a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gunhoo0216)](https://solved.ac/gunhoo0216)<br/>
   
-## GitStats
-<img src="https://github-readme-stats.vercel.app/api?username=gunhoo&show_icons=true"> 
 </div>
 <!---
 gunhoo/gunhoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
