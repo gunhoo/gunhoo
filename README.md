@@ -5,7 +5,7 @@
 # Introduction :raised_hands:
   ```
 👋 Hi, I’m @gunhoo and I'm trying to become a nice developer😎
-👀 I’m interested in CS, AI, ML, DL, Algorithms, Mobile/Embedded Systems
+👀 I’m interested in CS, AI/ML/DL, Web, Algorithms, Mobile/Embedded Systems
 🌱 I’m currently studying Algorithms & Java(Web) programming
 📫 My e-mail address: gunhoo2016 [at] gmail [dot] com
 🧔 My personal Website : https://gunhoo.github.io/
