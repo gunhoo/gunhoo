@@ -50,6 +50,6 @@
 - Languages: Java, Python
 ## 2. [Computer Science](https://github.com/CS-STUDY-955/computer-science)
 - Contents: Java, Network, OS, Database, Design Pattern, Data Structure, Algorithm, Web, Programming, Cutting-edge Knowledge
-## 3. [Coding Test](https://github.com/gunhoo/LeetCode)
+## 3. [LeetCode](https://github.com/gunhoo/LeetCode)
 - Contents: Solving coding test questions 
 - Languages: Java
