@@ -24,7 +24,7 @@
 
 ---
 
-# 📘 Projects
+# 📘 Selected Technical Projects
 ## 1. [Trip or Trip](https://github.com/Trip-or-Trip) 
 - Title: Web for travelers
 - Date: 2023.05.18 ~ 2023.05.26
@@ -44,7 +44,7 @@
 
 ---
 
-# ✏️ Study 
+# ✏️ Studying
 ## 1. [Algorithm](https://github.com/gunhoo/Algorithm)
 - Contents: Solving algorithm problems 
 - Languages: Java, Python
