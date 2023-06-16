@@ -29,8 +29,8 @@
 - Title: Web for travelers
 - Date: 2023.05.18 ~ 2023.05.26
 - Contents: Give helpful information and share places with people
-- Role: Full-stack(Front/Back-end)
-- Tech stack: Java, Vue.js, Spring(Boot), MySQL, Apache Tomcat
+- Role: Full-stack(Front/Back-end and DB)
+- Tech stack: Spring(Boot), Vue.JS, BootStrap, MySQL, JSON, Apache Tomcat
 
 ## 2. [Drone Tracking](https://github.com/gunhoo/Drone-Tracking)
 - Contents are available at [ACM MobiSys](https://dl.acm.org/doi/10.1145/3307334.3328613)
@@ -52,4 +52,4 @@
 - Contents: Java, Network, OS, Database, Design Pattern, Data Structure, Algorithm, Web, Programming, Cutting-edge Knowledge
 ## 3. [LeetCode](https://github.com/gunhoo/LeetCode)
 - Contents: Solving coding test questions 
-- Languages: Java
+- Language: Java
