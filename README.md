@@ -24,7 +24,7 @@
 
 ---
 
-# 📘 Selected Technical Projects
+# 📘 Selected Projects
 ## 1. [Trip or Trip](https://github.com/Trip-or-Trip) 
 - Title: Web for travelers
 - Date: 2023.05.18 ~ 2023.05.26
