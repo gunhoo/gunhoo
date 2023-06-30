@@ -19,7 +19,8 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunhoo&layout=compact&langs_count=6)](https://github.com/gunhoo/github-readme-stats) 
   
   ## Algorithm Lv
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gunhoo0216)](https://solved.ac/gunhoo0216)<br/> 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gunhoo0216)](https://solved.ac/gunhoo0216)
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/gunhoo2016?theme=light,unicorn)
 </div>
 
 ---
