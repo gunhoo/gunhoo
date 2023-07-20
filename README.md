@@ -10,7 +10,7 @@
 🧔 My personal Website : https://gunhoo.github.io/
   ```
 <a href="mailto:gunhoo2016@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:gunhoo2016@gmail.com"/>
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gunhoo%2Fhit-counter&count_bg=skyblue&title_bg=black&icon=🖤&icon_color=black&title=❣️&edge_flat=false)](https://hits.seeyoufarm.com)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gunhoo%2Fhit-counter&count_bg=skyblue&title_bg=black&icon=🖤&icon_color=black&title=❣️&edge_flat=false)](https://github.com/gunhoo)
  
   # Programming :muscle: 
   ## Skill :four_leaf_clover: 
