@@ -7,14 +7,19 @@
 👋 Hi, I’m @gunhoo and I'm trying to become a nice developer😎
 👀 I’m interested in CS, AI/ML/DL, Web, Algorithms, Mobile/Embedded Systems
 🌱 I’m currently studying Algorithms & Java(Web) programming
-📫 My e-mail address: gunhoo2016 [at] gmail [dot] com
 🧔 My personal Website : https://gunhoo.github.io/
   ```
-
+<a href="mailto:gunhoo2016@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:gunhoo2016@gmail.com"/>
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gunhoo%2Fhit-counter&count_bg=skyblue&title_bg=black&icon=🖤&icon_color=black&title=❣️&edge_flat=false)](https://hits.seeyoufarm.com)
  
   # Programming :muscle: 
   ## Skill :four_leaf_clover: 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-A8B9CC?style=flat&logo=MyBatis&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat&logo=Mattermost&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/> <br/>
+
   ## Languages :computer: 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunhoo&layout=compact&langs_count=6)](https://github.com/gunhoo/github-readme-stats) 
   
