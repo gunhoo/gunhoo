@@ -6,7 +6,7 @@
   ```
 👋 Hi, I’m @gunhoo and I'm trying to become a nice developer😎
 👀 I’m interested in CS, AI/ML/DL, Web, Algorithms, Mobile/Embedded Systems
-🌱 I’m currently studying Algorithms & Java(Web) programming
+🌱 I’m currently studying Algorithm & Web programming
 🧔 My personal Website : https://gunhoo.github.io/
   ```
 <a href="mailto:gunhoo2016@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:gunhoo2016@gmail.com"/>
@@ -34,10 +34,12 @@
 - Title: Web for travelers
 - Date: 2023.05.18 ~ 2023.05.26
 - Contents: Give helpful information and share places with people
-- Role: Full-stack(Front/Back-end and DB)
+- Role: Full-stack(Front/BackEnd and DB)
 - Tech stack: Spring(Boot), Vue.JS, BootStrap, MySQL, JSON, Apache Tomcat
 
 ## 2. [Drone Tracking](https://github.com/gunhoo/Drone-Tracking)
+- Title: Audio-based Drone Ranging and Localization using Deep Learning
+- Date: 2018.09 ~ 2019.06
 - Contents are available at [ACM MobiSys](https://dl.acm.org/doi/10.1145/3307334.3328613)
 - Tech stack: TensorFlow, JupyterNotebook, Python, Deep Learning(Convolutional Nueral Networks and others)
 
