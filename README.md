@@ -32,20 +32,20 @@
 # 📘 Selected Projects
 ## 1. [Trip or Trip](https://github.com/Trip-or-Trip) 
 - Title: Web for travelers
-- Date: 2023.05.18 ~ 2023.05.26
+- Date: May 18, 2023 ~ May 26, 2023 (8 Days)
 - Contents: Give helpful information and share places with people
 - Role: Full-stack(Front/BackEnd and DB)
-- Tech stack: Spring(Boot), Vue.JS, BootStrap, MySQL, JSON, Apache Tomcat
+- Tech stack: Spring, Vue.JS, BootStrap, MySQL, JSON
 
 ## 2. [Drone Tracking](https://github.com/gunhoo/Drone-Tracking)
 - Title: Audio-based Drone Ranging and Localization using Deep Learning
-- Date: 2018.09 ~ 2019.06
+- Date: Sep 2018 ~ Jun 2019 (10 Months)
 - Contents are available at [ACM MobiSys](https://dl.acm.org/doi/10.1145/3307334.3328613)
 - Tech stack: TensorFlow, JupyterNotebook, Python, Deep Learning(Convolutional Nueral Networks and others)
 
 ## 3. [Pick Pic](https://github.com/PickPic)
 - Title: Android application which can categorize your photo by tag
-- Date: 2017.03 ~ 2017.06
+- Date: Apr 2017 ~ Jun 2017 (2 Months)
 - Contents: Android application which can categorize your photo by tag using Inception V-3 and Android Studio
 - Tech stack: Python, Java, Deep Learning(Inception V-3, CNN)
 
@@ -60,5 +60,5 @@
 - Language: Java
 ## 3. [Computer Science](https://github.com/CS-STUDY-955/computer-science)
 - Contents: Java, Network, OS, Database, Design Pattern, Data Structure, Algorithm, Web, Programming, Cutting-edge Knowledge
-- Date: Jan 2023 ~ May 2023
+- Date: Jan 2023 ~ May 2023 (5 Months)
 
