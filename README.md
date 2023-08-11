@@ -31,11 +31,11 @@
 
 # 📘 Selected Projects
 ## 1. [Trip or Trip](https://github.com/Trip-or-Trip) 
-- Title: Web for travelers
+- Title: Website for travelers 
 - Date: May 18, 2023 ~ May 26, 2023 (8 Days)
-- Contents: Give helpful information and share places with people
+- Contents: Helpful information and places shared with people
 - Role: Full-stack(Front/BackEnd and DB)
-- Tech stack: Spring, Vue.JS, BootStrap, MySQL, JSON
+- Tech stack: Spring, Vue.JS, MySQL, JSON, API
 
 ## 2. [Drone Tracking](https://github.com/gunhoo/Drone-Tracking)
 - Title: Audio-based Drone Ranging and Localization using Deep Learning
