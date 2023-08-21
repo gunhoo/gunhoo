@@ -15,8 +15,8 @@
   # Programming :muscle: 
   ## Skill :computer: 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-A8B9CC?style=flat&logo=MyBatis&logoColor=white"/> <br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-A8B9CC?style=flat&logo=MyBatis&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat&logo=Mattermost&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/> <br/>
 
@@ -30,20 +30,28 @@
 ---
 
 # 📘 Selected Projects
-## 1. [Trip or Trip](https://github.com/Trip-or-Trip) 
+## 1. [Speaknig Path](https://github.com/Speaking-Path)
+- Title: Speaking Path (말하길)
+- Date: Jul 4, 2023 ~ Aug 18, 2023 ( 7 Weeks)
+- Contents: Web service to help people with stroke(speech disorder)
+    - Pronuncitation practice with AI (OpenAI Whisper and our own speech recognition model)
+    - Consulting reservation and video communication service (WebRTC OpenVidu)
+- Role: Full-stack(Front/BackEnd and DB) and AI server(Flask)
+  
+## 2. [Trip or Trip](https://github.com/Trip-or-Trip) 
 - Title: Website for travelers 
 - Date: May 18, 2023 ~ May 26, 2023 (8 Days)
 - Contents: Helpful information and places shared with people
 - Role: Full-stack(Front/BackEnd and DB)
 - Tech stack: Spring, Vue.JS, MySQL, JSON, API
 
-## 2. [Drone Tracking](https://github.com/gunhoo/Drone-Tracking)
+## 3. [Drone Tracking](https://github.com/gunhoo/Drone-Tracking)
 - Title: Audio-based Drone Ranging and Localization using Deep Learning
 - Date: Sep 2018 ~ Jun 2019 (10 Months)
 - Contents are available at [ACM MobiSys](https://dl.acm.org/doi/10.1145/3307334.3328613)
 - Tech stack: TensorFlow, JupyterNotebook, Python, Deep Learning(Convolutional Nueral Networks and others)
 
-## 3. [Pick Pic](https://github.com/PickPic)
+## 4. [Pick Pic](https://github.com/PickPic)
 - Title: Android application which can categorize your photo by tag
 - Date: Apr 2017 ~ Jun 2017 (2 Months)
 - Contents: Android application which can categorize your photo by tag using Inception V-3 and Android Studio
