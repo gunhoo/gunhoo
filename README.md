@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-A8B9CC?style=flat&logo=MyBatis&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <br/>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunhoo&layout=compact&langs_count=6)](https://github.com/gunhoo/github-readme-stats) 
   <!--
@@ -33,7 +33,7 @@
 # 📘 Selected Projects
 ## 1. [Speaknig Path](https://github.com/Speaking-Path)
 - Title: Speaking Path (말하길)
-- Date: Jul 4, 2023 ~ Aug 18, 2023 ( 7 Weeks)
+- Date: Jul 4, 2023 ~ Aug 18, 2023 (7 Weeks)
 - Contents: Web service to help people with stroke(speech disorder)
     - Pronuncitation practice with AI (OpenAI Whisper and our own speech recognition model)
     - Consulting reservation and video communication service (WebRTC OpenVidu)
