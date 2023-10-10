@@ -31,28 +31,36 @@
 ---
 
 # 📘 Selected Projects
-## 1. [Speaknig Path](https://github.com/Speaking-Path)
+
+## 1. [Chaeum](https://github.com/ChaeumApp)
+- Title: Chaeum (채움)
+- Date: Aug 28, 2023 ~ Oct 6, 2023 (6 Weeks)
+- Contents: Personal ingredient and recipe recommendation app service
+- Role: Backend (Spring, MariaDB, Redis, CI/CD, Amazon EC2)
+
+
+## 2. [Speaknig Path](https://github.com/Speaking-Path)
 - Title: Speaking Path (말하길)
-- Date: Jul 4, 2023 ~ Aug 18, 2023 (7 Weeks)
+- Date: Jul 10, 2023 ~ Aug 18, 2023 (6 Weeks)
 - Contents: Web service to help people with stroke(speech disorder)
     - Pronuncitation practice with AI (OpenAI Whisper and our own speech recognition model)
     - Consulting reservation and video communication service (WebRTC OpenVidu)
 - Role: Full-stack(Front/BackEnd and DB) and AI server(Flask)
   
-## 2. [Trip or Trip](https://github.com/Trip-or-Trip) 
+## 3. [Trip or Trip](https://github.com/Trip-or-Trip) 
 - Title: Website for travelers 
 - Date: May 18, 2023 ~ May 26, 2023 (8 Days)
 - Contents: Helpful information and places shared with people
 - Role: Full-stack(Front/BackEnd and DB)
 - Tech stack: Spring, Vue.JS, MySQL, JSON, API
 
-## 3. [Drone Tracking](https://github.com/gunhoo/Drone-Tracking)
+## 4. [Drone Tracking](https://github.com/gunhoo/Drone-Tracking)
 - Title: Audio-based Drone Ranging and Localization using Deep Learning
 - Date: Sep 2018 ~ Jun 2019 (10 Months)
 - Contents are available at [ACM MobiSys](https://dl.acm.org/doi/10.1145/3307334.3328613)
 - Tech stack: TensorFlow, JupyterNotebook, Python, Deep Learning(Convolutional Nueral Networks and others)
 
-## 4. [Pick Pic](https://github.com/PickPic)
+## 5. [Pick Pic](https://github.com/PickPic)
 - Title: Android application which can categorize your photo by tag
 - Date: Apr 2017 ~ Jun 2017 (2 Months)
 - Contents: Android application which can categorize your photo by tag using Inception V-3 and Android Studio
