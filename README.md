@@ -39,7 +39,7 @@
 - Role: Backend (Spring, MariaDB, Redis, CI/CD, Amazon EC2)
 
 
-## 2. [Speaknig Path](https://github.com/Speaking-Path)
+## 2. [Speaking Path](https://github.com/Speaking-Path)
 - Title: Speaking Path (말하길)
 - Date: Jul 10, 2023 ~ Aug 18, 2023 (6 Weeks)
 - Contents: Web service to help people with stroke(speech disorder)
