@@ -47,20 +47,22 @@
 - Role: Backend (Spring, MariaDB, Redis, CI/CD, Amazon EC2)
 
 
-## 3. [Speaking Path](https://github.com/Speaking-Path)
+## 3. [Speaking Path](https://github.com/Speaking-Path) 
 - Title: Speaking Path (말하길)
 - Date: Jul 10, 2023 ~ Aug 18, 2023 (6 Weeks)
 - Contents: Web service to help people with stroke(speech disorder)
     - Pronuncitation practice with AI (OpenAI Whisper and our own speech recognition model)
     - Consulting reservation and video communication service (WebRTC OpenVidu)
 - Role: Full-stack(Front/BackEnd and DB) and AI server(Flask)
-  
+```Awarded by Samsung```
+
 ## 4. [Trip or Trip](https://github.com/Trip-or-Trip) 
 - Title: Website for travelers 
 - Date: May 18, 2023 ~ May 26, 2023 (8 Days)
 - Contents: Helpful information and places shared with people
 - Role: Full-stack(Front/BackEnd and DB)
 - Tech stack: Spring, Vue.JS, MySQL, JSON, API
+```Awarded by Samsung```
 
 ## 5. [Drone Tracking](https://github.com/gunhoo/Drone-Tracking)
 - Title: Audio-based Drone Ranging and Localization using Deep Learning
