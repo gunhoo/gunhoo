@@ -53,7 +53,7 @@
 - Contents: Web service to help people with stroke(speech disorder)
     - Pronuncitation practice with AI (OpenAI Whisper and our own speech recognition model)
     - Consulting reservation and video communication service (WebRTC OpenVidu)
-- Role: Full-stack(Front/BackEnd and DB) and AI server(Flask)
+- Role: Full-stack(Front/BackEnd and DB) and AI server(Flask)  
 ```Awarded by Samsung```
 
 ## 4. [Trip or Trip](https://github.com/Trip-or-Trip) 
@@ -61,7 +61,7 @@
 - Date: May 18, 2023 ~ May 26, 2023 (8 Days)
 - Contents: Helpful information and places shared with people
 - Role: Full-stack(Front/BackEnd and DB)
-- Tech stack: Spring, Vue.JS, MySQL, JSON, API
+- Tech stack: Spring, Vue.JS, MySQL, JSON, API  
 ```Awarded by Samsung```
 
 ## 5. [Drone Tracking](https://github.com/gunhoo/Drone-Tracking)
