@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <br/>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunhoo&layout=compact&langs_count=6)](https://github.com/gunhoo) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunhoo&layout=compact&langs_count=4)](https://github.com/gunhoo) 
   <!--
   ## Algorithm Lv
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gunhoo0216)](https://solved.ac/gunhoo0216)
