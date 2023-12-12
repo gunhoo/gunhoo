@@ -79,13 +79,14 @@
 ---
 
 # ✏️ Study
-## 1. [Algorithm](https://github.com/gunhoo/Algorithm)
+## 1. [Today I Learned(TIL)](https://github.com/gunhoo/TIL)
+- Contents: Algorithm, LeetCode, Java, Web, Software Engineering, etc.
+## 2. [Algorithm](https://github.com/gunhoo/Algorithm)
 - Contents: Solving algorithm problems 
 - Languages: Java, Python
-## 2. [LeetCode](https://github.com/gunhoo/LeetCode)
+## 3. [LeetCode](https://github.com/gunhoo/LeetCode)
 - Contents: Solving coding test questions 
 - Language: Java
-## 3. [Computer Science](https://github.com/CS-STUDY-955/computer-science)
+## 4. [Computer Science](https://github.com/CS-STUDY-955/computer-science)
 - Contents: Java, Network, OS, Database, Design Pattern, Data Structure, Algorithm, Web, Programming, Cutting-edge Knowledge
 - Date: Jan 2023 ~ May 2023 (5 Months)
-
