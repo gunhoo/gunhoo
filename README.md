@@ -81,6 +81,7 @@
 # ✏️ Study
 ## 1. [Today I Learned(TIL)](https://github.com/gunhoo/TIL)
 - Contents: Algorithm, LeetCode, Java, Web, Software Engineering, etc.
+- Date: Dec 2023 - Present
 ## 2. [Algorithm](https://github.com/gunhoo/Algorithm)
 - Contents: Solving algorithm problems 
 - Languages: Java, Python
