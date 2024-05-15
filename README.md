@@ -1,4 +1,4 @@
-<div align=center>
+
   
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gunhoo's%20Github&fontSize=50) -->
   
@@ -12,8 +12,8 @@
 <a href="mailto:gunhoo2016@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:gunhoo2016@gmail.com"/>
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gunhoo%2Fhit-counter&count_bg=skyblue&title_bg=black&icon=🖤&icon_color=black&title=❣️&edge_flat=false)](https://github.com/gunhoo)
  
-  # Programming :muscle: 
-  ## Skill :computer: 
+  # Programming Skills :muscle: 
+  <!-- ## Skill :computer: !-->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=Spring-Security&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-A8B9CC?style=flat&logo=MyBatis&logoColor=white"/> 
@@ -24,16 +24,12 @@
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
 <br/>
-
    <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunhoo&layout=compact&langs_count=4)](https://github.com/gunhoo) !-->
   <!--
   ## Algorithm Lv
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gunhoo0216)](https://solved.ac/gunhoo0216)
   ![Leetcode Stats](https://leetcard.jacoblin.cool/gunhoo2016?theme=light,unicorn)
   -->
-</div>
-
----
 
 # 📘 Projects
 
