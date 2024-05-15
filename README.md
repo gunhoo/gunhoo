@@ -1,5 +1,4 @@
-
-  
+ 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gunhoo's%20Github&fontSize=50) -->
   
 # Introduction :raised_hands:
@@ -14,15 +13,28 @@
  
   # Programming Skills :muscle: 
   <!-- ## Skill :computer: !-->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=Spring-Security&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-A8B9CC?style=flat&logo=MyBatis&logoColor=white"/> 
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=MongoDB&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=Angular&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
+  <table style="border:0px solid white;">
+    <tr style="border:0px;">
+      <td style="border:0px;">Languages</td>
+      <td style="border:0px;"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white"/></td>
+    </tr>
+    <tr style="border:0px;">
+      <td style="border:0px;">Backend</td>
+      <td style="border:0px;"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=Spring-Security&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-A8B9CC?style=flat&logo=MyBatis&logoColor=white"/> </td>
+    </tr>
+    <tr style="border:0px;">
+      <td style="border:0px;">Databases</td>
+      <td style="border:0px;"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=MongoDB&logoColor=white"/></td>
+    </tr>
+    <tr style="border:0px;">
+      <td style="border:0px;">Frontend</td>
+      <td style="border:0px;"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=Angular&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></td>
+    </tr>
+    <tr style="border:0px;">
+      <td style="border:0px;">Others</td>
+      <td style="border:0px;"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></td>
+    </tr>
+  </table>
 <br/>
    <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunhoo&layout=compact&langs_count=4)](https://github.com/gunhoo) !-->
   <!--
@@ -92,3 +104,4 @@
 ## 4. [Computer Science](https://github.com/CS-STUDY-955/computer-science)
 - Contents: Java, Network, OS, Database, Design Pattern, Data Structure, Algorithm, Web, Programming, Cutting-edge Knowledge
 - Date: Jan 2023 ~ May 2023 (5 Months)
+
